@@ -1,0 +1,3 @@
+[submodule "typehint-dev"]
+	path = typehint-dev
+	url = https://github.com/crimson206/typehint-dev.git
